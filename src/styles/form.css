@@ -1,0 +1,15 @@
+.container {
+    margin: 10px 0;
+    border: 1px;
+    background-color: aqua;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 18px;
+    border: 1px;
+    border-radius: 3px;
+    background-color: aquamarine;
+  }
